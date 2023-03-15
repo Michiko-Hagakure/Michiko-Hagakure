@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kon'nichiwa Senpai 👋
 
 <!--
 **Michiko-Hagakure/Michiko-Hagakure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+![test](https://user-images.githubusercontent.com/58807710/225299797-f33f1440-bc76-431f-8ac7-d87e2be8491c.jpg)
