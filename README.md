@@ -7,9 +7,10 @@
   <p><i>"Bridging the gap between rigid technical controls and strategic business alignment."</i></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-IT%20Governance%20%7C%20Risk%20%7C%20Compliance-blueviolet?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Role-IT%20Consultant%20%26%20Auditor-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Security-Defensive%20%26%20Audit-green?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Set-Cybersecurity%20Analyst%20%7C%20Security%20Analyst-blue?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Set2-GRC%20(Governance%20Risk%20Compliance)-blueviolet?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Set3-IT%20Consultant-informational?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Security-Defensive%20%26%20Offensive-green?style=for-the-badge" />
   </p>
 </div>
 
@@ -21,9 +22,9 @@ As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Con
 ```json
 {
   "status": "Active",
-  "clearance_level": "Consultant / Auditor",
+  "clearance_level": "Cybersecurity / Analyst",
   "specializations": [
-    "IT Risk Assessment & Mitigation",
+    "Cybersecurity & Risk Management",
     "Information Security Auditing",
     "Framework Alignment (COBIT, ISO/IEC 27001, ITIL)",
     "Vulnerability Assessment & Web Security",
