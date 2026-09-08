@@ -30,7 +30,7 @@ As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Con
   "specializations": [
     "Cybersecurity & Risk Management",
     "Information Security Auditing",
-    "Framework Alignment (COBIT, ISO/IEC 27001, ITIL)",
+    "Framework Alignment (NIST CSF/RMF)",
     "Vulnerability Assessment & Web Security",
     "IT Policy & Compliance Management"
   ]
