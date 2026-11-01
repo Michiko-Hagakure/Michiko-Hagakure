@@ -20,7 +20,7 @@
   </p>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Defending+Systems+Before+They+Are+Attacked;Blue+Team+%7C+Risk+Management+%7C+Compliance;Bridging+Tech+%26+Business+Strategy&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Defending+Systems+Before+They+Are+Attacked;Blue+Team+%7C+Risk+Management+%7C+Compliance;Bridging+Tech+%26+Business+Strategy&font=Fira%20Code&center=true&width=750&height=45&color=36BCF7&vCenter=true&size=22" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
