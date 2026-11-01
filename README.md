@@ -60,16 +60,16 @@ As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Con
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
   <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549">
-    <img src="https://img.shields.io/badge/Status-Hacking-9FEF00?style=for-the-badge&labelColor=111927" />
+    <img src="https://img.shields.io/badge/Status-Defending-9FEF00?style=for-the-badge&labelColor=111927" />
   </a>
   <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549">
-    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Vulnerability%20Assessment-9FEF00?style=for-the-badge&labelColor=111927" />
+    
   </a>
 
   <br/><br/>
 
   <!-- HTB profile card (palitan ang YOUR_HTB_PROFILE_LINK at YOUR_HTB_BADGE_IMAGE_LINK) -->
-  <a href="YOUR_HTB_PROFILE_LINK">
+  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
     <img src="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549" alt="Hack The Box Profile" width="350"/>
   </a>
 
