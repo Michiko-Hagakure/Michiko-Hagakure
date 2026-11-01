@@ -1,6 +1,6 @@
 <!-- ANIMATED WAVE BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%3E_%20GRC%20%2F%2F%20CYBERSECURITY&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Governance%20%E2%80%A2%20Risk%20%E2%80%A2%20Compliance&descSize=16&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%3E_%20DEFENSIVE%20SECURITY&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Blue%20Team%20%E2%80%A2%20GRC%20%E2%80%A2%20OffSec%20Practice&descSize=16&descAlignY=60" width="100%"/>
 </div>
 
 <div id="header" align="center">
@@ -8,18 +8,19 @@
 </div>
 
 <div align="center">
-  <h1>⚡ SYSTEM_OVERRIDE: INITIALIZING GRC & CYBERSECURITY PROFILE ⚡</h1>
+  <h1>⚡ SYSTEM_OVERRIDE: INITIALIZING DEFENSIVE SECURITY & GRC PROFILE ⚡</h1>
   <p><i>"Bridging the gap between rigid technical controls and strategic business alignment."</i></p>
   
   <p>
-     <img src="https://img.shields.io/badge/Set-Cybersecurity%20Analyst%20%7C%20Security%20Analyst-blue?style=for-the-badge" />
-     <img src="https://img.shields.io/badge/Set2-GRC%20(Governance%20Risk%20Compliance)-blueviolet?style=for-the-badge" />
-     <img src="https://img.shields.io/badge/Set3-IT%20Consultant-informational?style=for-the-badge" />
-     <img src="https://img.shields.io/badge/Security-Defensive%20%26%20Offensive-green?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst%20%7C%20Security%20Analyst-blue?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Main%20Focus-Defensive%20Security%20(Blue%20Team)-0078D4?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Also-GRC%20(Governance%20Risk%20Compliance)-blueviolet?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Also-IT%20Consultant-informational?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/Practice-Offensive%20Security-green?style=for-the-badge" />
   </p>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Securing+Systems+One+Policy+at+a+Time;GRC+%7C+Risk+Management+%7C+Compliance;Bridging+Tech+%26+Business+Strategy&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Defending+Systems+Before+They+Are+Attacked;Blue+Team+%7C+Risk+Management+%7C+Compliance;Bridging+Tech+%26+Business+Strategy&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -27,13 +28,19 @@
 
 ### 🖥️ [SYS_LOG] Core Competencies & Mission
 
-As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Consultant**, my objective is to ensure that information systems are not only secure but also strictly aligned with global standards and business objectives. I analyze architectures, audit policies, mitigate risks, and build defensive strategies before a single line of malicious code can exploit a vulnerability.
+As an aspiring **Defensive Security Analyst** with a background in **IT Governance, Risk, and Compliance (GRC)** and IT Consulting, my objective is to ensure that information systems are not only secure but also strictly aligned with global standards and business objectives. I analyze architectures, audit policies, mitigate risks, and build defensive strategies before a single line of malicious code can exploit a vulnerability. I also practice offensive security on the side to better understand how attackers think and strengthen my defensive work.
 
 ```json
 {
   "status": "Active",
   "clearance_level": "Cybersecurity / Analyst",
+  "primary_focus": "Defensive Security (Blue Team)",
+  "secondary_focus": [
+    "GRC (Governance, Risk & Compliance)",
+    "Offensive Security (Practice)"
+  ],
   "specializations": [
+    "Defensive Security & Threat Detection",
     "Cybersecurity & Risk Management",
     "Information Security Auditing",
     "Framework Alignment (NIST CSF/RMF)",
@@ -46,31 +53,31 @@ As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Con
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🟩 [HTB_LOG] Hack The Box // Offensive Training Ground
+### 🟩 [HTB_LOG] Hack The Box // Offensive Practice Lab
 
 <div align="center">
 
   <!-- Typing animation for HTB -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=root%40htb%3A~%23+whoami;Practicing+Offensive+Security+to+Strengthen+Defense;Pwn+the+box.+Write+the+policy.&font=Fira%20Code&center=true&width=550&height=40&color=9FEF00&vCenter=true&size=18&duration=3000&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=root%40htb%3A~%23+whoami;Blue+Team+First.+Red+Team+for+Practice;Learning+Offense+to+Strengthen+Defense&font=Fira%20Code&center=true&width=550&height=40&color=9FEF00&vCenter=true&size=18&duration=3000&pause=1000" />
 
   <br/><br/>
 
   <!-- HTB badges (palitan ang YOUR_HTB_PROFILE_LINK) -->
-  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549">
+  <a href="YOUR_HTB_PROFILE_LINK">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
-  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549">
-    <img src="https://img.shields.io/badge/Status-Defending-9FEF00?style=for-the-badge&labelColor=111927" />
+  <a href="YOUR_HTB_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/Mode-OffSec%20Practice-9FEF00?style=for-the-badge&labelColor=111927" />
   </a>
-  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549">
-    
+  <a href="YOUR_HTB_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/Main-Defensive%20Security-9FEF00?style=for-the-badge&labelColor=111927" />
   </a>
 
   <br/><br/>
 
   <!-- HTB profile card (palitan ang YOUR_HTB_PROFILE_LINK at YOUR_HTB_BADGE_IMAGE_LINK) -->
-  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
-    <img src="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549" alt="Hack The Box Profile" width="350"/>
+  <a href="YOUR_HTB_PROFILE_LINK">
+    <img src="YOUR_HTB_BADGE_IMAGE_LINK" alt="Hack The Box Profile" width="350"/>
   </a>
 
 </div>
@@ -80,8 +87,10 @@ As an aspiring **IT Governance, Risk, and Compliance (GRC) Specialist and IT Con
 └─# cat htb_status.txt
 
 [+] Platform   : Hack The Box
-[+] Objective  : Apply offensive techniques to build stronger defensive & GRC strategies
-[+] Mindset    : Think like an attacker, govern like a strategist
+[+] Main Focus : Defensive Security (Blue Team)
+[+] Practice   : Offensive Security & GRC (occasional)
+[+] Objective  : Use offensive techniques to build stronger detection, defense & governance
+[+] Mindset    : Think like an attacker, defend like a strategist
 ```
 
 <div align="center">
