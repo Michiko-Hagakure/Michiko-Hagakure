@@ -62,21 +62,20 @@ As an aspiring **Defensive Security Analyst** with a background in **IT Governan
 
   <br/><br/>
 
-  <!-- HTB badges (palitan ang YOUR_HTB_PROFILE_LINK) -->
-  <a href="YOUR_HTB_PROFILE_LINK">
+  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
-  <a href="YOUR_HTB_PROFILE_LINK">
+  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
     <img src="https://img.shields.io/badge/Mode-OffSec%20Practice-9FEF00?style=for-the-badge&labelColor=111927" />
   </a>
-  <a href="YOUR_HTB_PROFILE_LINK">
+  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
     <img src="https://img.shields.io/badge/Main-Defensive%20Security-9FEF00?style=for-the-badge&labelColor=111927" />
   </a>
 
   <br/><br/>
 
-  <!-- HTB profile card (palitan ang YOUR_HTB_PROFILE_LINK at YOUR_HTB_BADGE_IMAGE_LINK) -->
-  <a href="YOUR_HTB_PROFILE_LINK">
+  
+  <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
     <img src="YOUR_HTB_BADGE_IMAGE_LINK" alt="Hack The Box Profile" width="350"/>
   </a>
 
