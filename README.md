@@ -76,7 +76,7 @@ As an aspiring **Defensive Security Analyst** with a background in **IT Governan
 
   
   <a href="https://profile.hackthebox.com/profile/019ed38e-6cfe-707b-84f9-f46873541549?utm_medium=copy_url">
-    <img src="https://htb-sso-prod-public-storage.s3.eu-central-1.amazonaws.com/users/de5bb99e-206c-47a0-b25c-f44c82a45db6-avatar.png" alt="Hack The Box Profile" width="350"/>
+    <img src="https://htb-sso-prod-public-storage.s3.eu-central-1.amazonaws.com/users/de5bb99e-206c-47a0-b25c-f44c82a45db6-avatar.png" alt="Hack The Box Profile" width="250"/>
   </a>
 
 </div>
